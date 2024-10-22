@@ -22,3 +22,4 @@ bool ossd_4
 uint16 distance
 # The reported angle of the stop in deg.
 float32 angle
+bool optical_window_contaminated
