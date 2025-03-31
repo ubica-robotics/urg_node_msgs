@@ -2,8 +2,8 @@
 Changelog for package urg_node_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+101.2.0 (2025-03-31)
+--------------------
 * DEV-9928 Add optical_window_contamination to /laser_status topic
 * Contributors: Patrick Jakubowski
 
